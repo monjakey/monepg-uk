@@ -1,0 +1,12 @@
+# Never let git touch line endings on the published artifacts.
+#
+# GitHub raw serves exactly what is committed. An M3U checked out with CRLF on
+# Windows and committed back would ship CRLF to every subscriber, and players
+# differ on whether they tolerate it -- the failure looks like a corrupt
+# playlist rather than a line-ending problem, so it is expensive to diagnose.
+*.m3u   -text
+*.xml   -text
+*.gz    binary
+*.png   binary
+*.jpg   binary
+*.gif   binary

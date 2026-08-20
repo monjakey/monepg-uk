@@ -1860,6 +1860,8 @@ DNS/live/USERNAME/PASSWORD/607455.ts
 DNS/live/USERNAME/PASSWORD/607456.ts
 #EXTINF:0 CUID="118538" tvg-name="Fulham" tvg-id="monepg.epl-premier-league.118538" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/fulham-87a54a0d.png" group-title="EPL Premier League",Fulham
 DNS/live/USERNAME/PASSWORD/607457.ts
+#EXTINF:0 CUID="118537" tvg-name="Hull City (No Channel)" tvg-id="monepg.epl-premier-league.118537" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/hull-city-4c14de07.png" group-title="EPL Premier League",Hull City (No Channel)
+DNS/live/USERNAME/PASSWORD/1520457.ts
 #EXTINF:0 CUID="118536" tvg-name="Ipswich" tvg-id="monepg.epl-premier-league.118536" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/ipswich-bb3b685c.png" group-title="EPL Premier League",Ipswich
 DNS/live/USERNAME/PASSWORD/1032877.ts
 #EXTINF:0 CUID="118535" tvg-name="Leeds United" tvg-id="monepg.epl-premier-league.118535" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/leeds-united-1d5a4884.png" group-title="EPL Premier League",Leeds United
@@ -1878,10 +1880,6 @@ DNS/live/USERNAME/PASSWORD/607462.ts
 DNS/live/USERNAME/PASSWORD/1544236.ts
 #EXTINF:0 CUID="118528" tvg-name="Tottenham" tvg-id="monepg.epl-premier-league.118528" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/tottenham-white-edab3e99.png" group-title="EPL Premier League",Tottenham
 DNS/live/USERNAME/PASSWORD/607463.ts
-#EXTINF:0 CUID="118541" tvg-name="Coventry City (No Channel)" tvg-id="monepg.epl-premier-league.118541" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/coventry-city-24dd4fb8.png" group-title="EPL Premier League",Coventry City (No Channel)
-DNS/live/USERNAME/PASSWORD/1520459.ts
-#EXTINF:0 CUID="118537" tvg-name="Hull City (No Channel)" tvg-id="monepg.epl-premier-league.118537" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/hull-city-4c14de07.png" group-title="EPL Premier League",Hull City (No Channel)
-DNS/live/USERNAME/PASSWORD/1520457.ts
 #EXTINF:0 CUID="118573" tvg-name="Birmingham" tvg-id="monepg.efl-championship.118573" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/birmingham-47565d3d.png" group-title="EFL Championship",Birmingham
 DNS/live/USERNAME/PASSWORD/2113602.ts
 #EXTINF:0 CUID="118572" tvg-name="Blackburn Rovers" tvg-id="monepg.efl-championship.118572" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/blackburn-rovers-414c99c1.png" group-title="EFL Championship",Blackburn Rovers
@@ -2294,6 +2292,82 @@ DNS/live/USERNAME/PASSWORD/1290229.ts
 DNS/live/USERNAME/PASSWORD/1744758.ts
 #EXTINF:0 CUID="119055" tvg-name="LALIGA TV" tvg-id="monepg.premier-sports.119055" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/laligatv-ade6ecd4.png" group-title="Premier Sports",LALIGA TV
 DNS/live/USERNAME/PASSWORD/1290226.ts
+#EXTINF:0 CUID="118620" tvg-name="National League Event 1" tvg-id="monepg.national-league.118620" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 1
+DNS/live/USERNAME/PASSWORD/2113599.ts
+#EXTINF:0 CUID="118621" tvg-name="National League Event 2" tvg-id="monepg.national-league.118621" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 2
+DNS/live/USERNAME/PASSWORD/2113598.ts
+#EXTINF:0 CUID="118622" tvg-name="National League Event 3" tvg-id="monepg.national-league.118622" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 3
+DNS/live/USERNAME/PASSWORD/2113597.ts
+#EXTINF:0 CUID="118623" tvg-name="National League Event 4" tvg-id="monepg.national-league.118623" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 4
+DNS/live/USERNAME/PASSWORD/2113596.ts
+#EXTINF:0 CUID="118624" tvg-name="National League Event 5" tvg-id="monepg.national-league.118624" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 5
+DNS/live/USERNAME/PASSWORD/2113595.ts
+#EXTINF:0 CUID="118625" tvg-name="National League Event 6" tvg-id="monepg.national-league.118625" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 6
+DNS/live/USERNAME/PASSWORD/2113594.ts
+#EXTINF:0 CUID="118626" tvg-name="National League Event 7" tvg-id="monepg.national-league.118626" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 7
+DNS/live/USERNAME/PASSWORD/2113593.ts
+#EXTINF:0 CUID="118627" tvg-name="National League Event 8" tvg-id="monepg.national-league.118627" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 8
+DNS/live/USERNAME/PASSWORD/2113592.ts
+#EXTINF:0 CUID="118628" tvg-name="National League Event 9" tvg-id="monepg.national-league.118628" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 9
+DNS/live/USERNAME/PASSWORD/2113591.ts
+#EXTINF:0 CUID="118629" tvg-name="National League Event 10" tvg-id="monepg.national-league.118629" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 10
+DNS/live/USERNAME/PASSWORD/2113590.ts
+#EXTINF:0 CUID="118630" tvg-name="National League Event 11" tvg-id="monepg.national-league.118630" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 11
+DNS/live/USERNAME/PASSWORD/2113589.ts
+#EXTINF:0 CUID="118631" tvg-name="National League Event 12" tvg-id="monepg.national-league.118631" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 12
+DNS/live/USERNAME/PASSWORD/2113588.ts
+#EXTINF:0 CUID="118632" tvg-name="National League Event 13" tvg-id="monepg.national-league.118632" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 13
+DNS/live/USERNAME/PASSWORD/2113587.ts
+#EXTINF:0 CUID="118633" tvg-name="National League Event 14" tvg-id="monepg.national-league.118633" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 14
+DNS/live/USERNAME/PASSWORD/2113586.ts
+#EXTINF:0 CUID="118634" tvg-name="National League Event 15" tvg-id="monepg.national-league.118634" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 15
+DNS/live/USERNAME/PASSWORD/2113585.ts
+#EXTINF:0 CUID="118635" tvg-name="National League Event 16" tvg-id="monepg.national-league.118635" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 16
+DNS/live/USERNAME/PASSWORD/2113584.ts
+#EXTINF:0 CUID="118636" tvg-name="National League Event 17" tvg-id="monepg.national-league.118636" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 17
+DNS/live/USERNAME/PASSWORD/2113583.ts
+#EXTINF:0 CUID="118637" tvg-name="National League Event 18" tvg-id="monepg.national-league.118637" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 18
+DNS/live/USERNAME/PASSWORD/2113582.ts
+#EXTINF:0 CUID="118638" tvg-name="National League Event 19" tvg-id="monepg.national-league.118638" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 19
+DNS/live/USERNAME/PASSWORD/2113581.ts
+#EXTINF:0 CUID="118639" tvg-name="National League Event 20" tvg-id="monepg.national-league.118639" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 20
+DNS/live/USERNAME/PASSWORD/2113580.ts
+#EXTINF:0 CUID="118640" tvg-name="National League Event 21" tvg-id="monepg.national-league.118640" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 21
+DNS/live/USERNAME/PASSWORD/2113579.ts
+#EXTINF:0 CUID="118641" tvg-name="National League Event 22" tvg-id="monepg.national-league.118641" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 22
+DNS/live/USERNAME/PASSWORD/2113578.ts
+#EXTINF:0 CUID="118642" tvg-name="National League Event 23" tvg-id="monepg.national-league.118642" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 23
+DNS/live/USERNAME/PASSWORD/2113577.ts
+#EXTINF:0 CUID="118643" tvg-name="National League Event 24" tvg-id="monepg.national-league.118643" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 24
+DNS/live/USERNAME/PASSWORD/2113576.ts
+#EXTINF:0 CUID="118644" tvg-name="National League Event 25" tvg-id="monepg.national-league.118644" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 25
+DNS/live/USERNAME/PASSWORD/2113575.ts
+#EXTINF:0 CUID="118645" tvg-name="National League Event 26" tvg-id="monepg.national-league.118645" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 26
+DNS/live/USERNAME/PASSWORD/2113574.ts
+#EXTINF:0 CUID="118646" tvg-name="National League Event 27" tvg-id="monepg.national-league.118646" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 27
+DNS/live/USERNAME/PASSWORD/2113573.ts
+#EXTINF:0 CUID="118647" tvg-name="National League Event 28" tvg-id="monepg.national-league.118647" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 28
+DNS/live/USERNAME/PASSWORD/2113572.ts
+#EXTINF:0 CUID="118648" tvg-name="National League Event 29" tvg-id="monepg.national-league.118648" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 29
+DNS/live/USERNAME/PASSWORD/2113571.ts
+#EXTINF:0 CUID="118649" tvg-name="National League Event 30" tvg-id="monepg.national-league.118649" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 30
+DNS/live/USERNAME/PASSWORD/2113570.ts
+#EXTINF:0 CUID="118650" tvg-name="National League Event 31" tvg-id="monepg.national-league.118650" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 31
+DNS/live/USERNAME/PASSWORD/2113569.ts
+#EXTINF:0 CUID="118651" tvg-name="National League Event 32" tvg-id="monepg.national-league.118651" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 32
+DNS/live/USERNAME/PASSWORD/2113568.ts
+#EXTINF:0 CUID="118652" tvg-name="National League Event 33" tvg-id="monepg.national-league.118652" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 33
+DNS/live/USERNAME/PASSWORD/2113567.ts
+#EXTINF:0 CUID="118653" tvg-name="National League Event 34" tvg-id="monepg.national-league.118653" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 34
+DNS/live/USERNAME/PASSWORD/2113566.ts
+#EXTINF:0 CUID="118654" tvg-name="National League Event 35" tvg-id="monepg.national-league.118654" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 35
+DNS/live/USERNAME/PASSWORD/2113565.ts
+#EXTINF:0 CUID="118655" tvg-name="National League Event 36" tvg-id="monepg.national-league.118655" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 36
+DNS/live/USERNAME/PASSWORD/2113564.ts
+#EXTINF:0 CUID="118656" tvg-name="National League Event 37" tvg-id="monepg.national-league.118656" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 37
+DNS/live/USERNAME/PASSWORD/2113563.ts
+#EXTINF:0 CUID="118657" tvg-name="National League Event 38" tvg-id="monepg.national-league.118657" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/national-league-1a534978.png" group-title="National League",National League Event 38
+DNS/live/USERNAME/PASSWORD/2113562.ts
 #EXTINF:0 CUID="118972" tvg-name="Real Madrid" tvg-id="monepg.la-liga.118972" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/real-madrid-c3403b46.png" group-title="La Liga",Real Madrid
 DNS/live/USERNAME/PASSWORD/621407.ts
 #EXTINF:0 CUID="118973" tvg-name="Barcelona" tvg-id="monepg.la-liga.118973" tvg-logo="https://raw.githubusercontent.com/monjakey/name-uk-playlist/main/logos/barcelona-138eac27.png" group-title="La Liga",Barcelona

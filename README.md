@@ -16,21 +16,17 @@ and it does nothing until you supply your own provider credentials.
 
 ## What's in it
 
-**Around 1,200 channels, United Kingdom only.** The exact count moves daily —
-event channels are published only while they carry something, so a slot with no
-fixture is hidden rather than shipped empty.
+**Around 1,200 channels, United Kingdom only.**
 
 - **UK TV Guide** — terrestrials, news, entertainment, factual, kids, sport,
   shopping, then nations and regions.
-- **Sky Sports**, including the Sky Sports+ event slots named with the real
-  fixture rather than a slot number, and an `Ended:` card afterwards so a slot is
-  never blank.
+- **Sky Sports**, including the Sky Sports+ event slots.
 - **Sky Entertainment** and **TNT Sports**
 - **Football club channels** with crests — Premier League, Championship, League
   One, League Two, National League, La Liga, Serie A, SPFL.
 - **Formula 1** — broadcast feeds plus 22 driver onboards, each with that
-  driver's headshot, on a session schedule.
-- **Tennis TV** — court feeds with a liveness guide refreshed five times a day.
+  driver's headshot.
+- **Tennis TV** — court feeds.
 - **NBA** — League Pass, team channels and the Replay block.
 - **ITVX**, **DAZN**, **Premier Sports**.
 - **UK Radio, ~700 stations** — credential-free public streams, so they work for
@@ -40,13 +36,16 @@ fixture is hidden rather than shipped empty.
 
 The guide is the point of this list.
 
-- **First-party Sky data on 126 channels**, taken from Sky's own public API
-  rather than a scraped third party.
-- **No blank guides.** A channel that cannot get a real guide is left out rather
-  than shipped empty.
-- **No `+1` contamination** — no channel is bound to its own timeshift feed.
-- **Rebrands tracked by schedule, not by name** — Sky retired several brands its
-  streams are still labelled with.
+- **Every channel has one.** Nothing here ships with an empty grid, and
+  scrolling forward does not run out.
+- **Club channels tell you the next fixture.** A team channel reads
+  `Upcoming: Home to Bolton, Sat 22 Aug 15:00` — the opposition named the short
+  way a supporter would say it, and home or away stated.
+- **Event slots name the event**, not the slot, and say `Ended:` once it has
+  finished rather than still advertising it as live.
+- **Sky channels carry Sky's own data.**
+- **The channel list is stable.** Your ordering, favourites and guide bindings
+  survive updates.
 
 ## Using it
 
@@ -58,3 +57,42 @@ automatically — you do not need to re-import it.
 - Radio channels are public streams and carry `tvg-type="ignore"`, so EPGenius
   passes them through without credential substitution.
 - Channel ids are stable across renames, so your guide bindings survive updates.
+
+## Credits
+
+This playlist is assembled from other people's work. Nothing here would exist
+without them.
+
+**The software it runs on**
+
+- **[Dispatcharr](https://github.com/Dispatcharr/Dispatcharr)** — the channel
+  and guide platform the whole service is built on. Licensed AGPL-3.0.
+- **[Teamarr](https://github.com/Pharaoh-Labs/teamarr)** by Pharaoh Labs —
+  generates the per-team fixture guide behind every football and NBA club
+  channel in this list. The club channels are its work, not ours.
+
+**Programme data**
+
+- **[epg.guru](https://epg.guru/)** and its maintainers — the guide source
+  behind most of the entertainment, factual and kids channels here.
+- **Sky** — the first-party public EPG API, used for the Sky and Sky Sports
+  channels and for the Sky Sports+ event slots.
+- **ESPN** — fixture and session data for Formula 1, the football club channels
+  and the National League slots.
+
+**Artwork**
+
+- **[K-yzu/Logos](https://github.com/K-yzu/Logos)** — television and radio
+  channel logos. The great majority of the tiles in `logos/` come from here.
+- **[football-logos.cc](https://football-logos.cc/)** — football club crests.
+
+**Distribution**
+
+- **[EPGenius](https://epgenius.org/)** — hosts the playlist, republishes the
+  guide, and handles credential substitution so this repository never has to
+  hold any.
+
+Channel logos and club crests remain the property of their respective
+broadcasters and clubs, and are used here for identification only. If you
+maintain something credited above and would like the attribution changed — or
+removed — open an issue and it will be done.
